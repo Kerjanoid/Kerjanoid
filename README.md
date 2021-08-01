@@ -16,7 +16,6 @@
 ### Мои контакты:
 
 [![Linkedin Badge](	https://img.shields.io/badge/-Kerjanoid-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&link=https://www.linkedin.com/in/%D0%B2%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2-%D0%B1%D0%B0%D1%80%D0%B4%D0%B0%D0%BA%D0%BE%D0%B2-6a86ab205)](https://www.linkedin.com/in/%D0%B2%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2-%D0%B1%D0%B0%D1%80%D0%B4%D0%B0%D0%BA%D0%BE%D0%B2-6a86ab205)
-[![Instagram Badge](https://img.shields.io/badge/-Kerjanoid-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/Kerjanoid/)](https://www.instagram.com/kerjanoid/)
 [![Telegram Badge](https://img.shields.io/badge/-Kerjanoid-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Kerjanoid)](https://t.me/Kerjanoid)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerjanoid&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
